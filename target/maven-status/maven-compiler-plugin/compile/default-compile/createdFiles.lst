@@ -1,0 +1,5 @@
+dev\deqrenso\chester\utils\StringUtils.class
+dev\deqrenso\chester\Chester.class
+dev\deqrenso\chester\commands\ChesterCommand.class
+dev\deqrenso\chester\ConfigFile.class
+dev\deqrenso\chester\listeners\ChesterListener.class

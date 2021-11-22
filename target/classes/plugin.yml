@@ -1,0 +1,6 @@
+name: Chester
+version: 1.0-SNAPSHOT
+main: dev.deqrenso.chester.Chester
+authors: [DevRenso]
+commands:
+  chester:
