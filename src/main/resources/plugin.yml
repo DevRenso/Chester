@@ -1,0 +1,6 @@
+name: Chester
+version: ${project.version}
+main: dev.deqrenso.chester.Chester
+authors: [DevRenso]
+commands:
+  chester:
